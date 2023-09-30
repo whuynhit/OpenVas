@@ -18,7 +18,7 @@
 4. Click "Continue to Create VM"
 5. Configure the VM:
    - Resource Group: Vulnerability-Management
-   - VM Name: OpenVAS (Take note of the region and Vnet–consider East US 2)
+   - VM Name: OpenVAS (Take note of the region and Vnet–consider West US 2)
    - Authentication: Username → azureuser / Cyberlab123!
    - Monitoring: Disable Boot Diagnostic
 6. Click "Create" to create the VM.
